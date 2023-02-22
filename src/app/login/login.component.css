@@ -1,0 +1,28 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+}
+
+#section-login{
+    height: 100%;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: #222C6A;
+    padding: 10px 20px;
+}
+
+#section-login h1{
+    text-align: center;
+    color: #5270FF;
+}
+
+#section-login input{
+    width: 100%;
+}
+
+label {
+    color: #5270FF;
+    font-weight: bold;
+}

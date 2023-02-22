@@ -1,0 +1,41 @@
+/* Principal */
+h1, h2 {
+    color: #5270FF
+}
+
+main {
+    min-height: 500px;
+}
+
+/* Banner */
+#section-banner {
+    min-height: 400px;
+}
+
+#section-banner img {
+    height: 600px;
+}
+
+/* Destaques */
+#section-destaques, #section-categorias {
+    text-align: center;
+}
+
+#section-destaques h1, #section-categorias h1{
+    font-weight: bold;
+}
+
+#section-destaques .card, #section-categorias .card{
+    margin: 0.5%;
+    background-color: #222C6A;
+    color: #5270FF;
+    border-radius: 10px;
+}
+
+#section-destaques img, #section-categorias img{
+    height: 70%;
+}
+
+#section-destaques h6, #section-categorias h6{
+    font-weight: bold;
+}
