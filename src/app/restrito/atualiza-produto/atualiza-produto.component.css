@@ -1,0 +1,26 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#section-cadastro {
+    height: 100%;
+    width: 700px;
+    border-radius: 10px;
+    border: 2px;
+    padding: 10px 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: #222C6A;
+}
+
+label {
+    color: #5270FF;
+    font-weight: bold;
+}
